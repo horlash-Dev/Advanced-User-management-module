@@ -1,0 +1,25 @@
+{
+    "name": "xproject/user-management",
+    "description": "user-management-system",
+    "require": {},
+	"autoload":{
+		"classmap": ["classes/","includes/"],
+		"files": ["assets/config/conn.class.php"],
+		"psr-4":{
+			"users\\": "classes/",
+			"admin\\": "admin/",
+			"admin\\config\\": "admin/config"
+		}
+
+	}      
+}
+
+
+
+
+
+
+
+
+
+

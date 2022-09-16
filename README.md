@@ -7,24 +7,24 @@ This project mainly focus on user management module and all features in a web ap
 
 ## features
 
-authentication
-email verification
-password reset and confirmation
-user modules (profile pic & others)
-admin panel for the admin
-ip tracker
-google pie chart for user records (verified or unverified)
-live notification and feedback
+authentication,
+email verification,
+password reset and confirmation,
+user modules (profile pic & others),
+admin panel for the admin,
+ip tracker,
+google pie chart for user records (verified or unverified),
+live notification and feedback,
 post/ crud module
 
 ## stack used & libararies
 
-php (7.2), oop/pdo involved
-javascript/jquery
-datatables
-phpmailer
-sweetalert
-composer(clas auto load)
+php (7.2), oop/pdo involved,
+javascript/jquery,
+datatables,
+phpmailer,
+sweetalert,
+composer(clas auto load),
 MVC PATTERN
 
 ## how to run 
